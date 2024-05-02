@@ -1,7 +1,7 @@
 {
-   "name": "Obsidian gruvbox",
-   "version": "0.2.1",
-   "minAppVersion": "0.16.0",
-   "author": "insanum",
-   "authorUrl": "https://insanum.com"
+   "name": "Obsidian Dark Sun",
+   "version": "0.0.0",
+	"minAppVersion": "1.0.0",
+   "author": "hrvelic",
+   "authorUrl": "https://github.com/hrvelic"
 }

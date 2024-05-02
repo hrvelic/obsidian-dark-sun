@@ -1,7 +1,13 @@
 
-# Obsidian + gruvbox
+# Obsidian Dark Sun
 
-This is a [gruvbox](https://github.com/morhetz/gruvbox) theme for [Obsidian](https://obsidian.md).
+Personal theme for [Obsidian](https://obsidian.md).
+
+Based on:
+- [Obsidian Gruvbox](https://github.com/insanum/obsidian_gruvbox) theme for Obsidian.
+- Personal dark mode coding theme using a combination of warm colors and [gruvbox](https://github.com/morhetz/gruvbox) vim theme colors.
+
+Images below might be out of date.
 
 ![](dark.png)
 
